@@ -2,7 +2,7 @@
 Created on Mon Jan 22 2018
 Python 2.7
 
-Convolution Neural Network
+Convolutional Neural Network
 Frameworks: Theano and Lasagne
 Data base: mnist
 
